@@ -1,0 +1,27 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin:20px;
+    
+  }
+  
+  .contact-form button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #2ead4e;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-form .success {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .contact-form .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
